@@ -5,8 +5,14 @@
 * Experienced in Golang, CLI, backend development
 
 ## Projects
+### [ask](https://github.com/Jamlie/ask)
+Ask is a CLI tool used for communicating with Google’s Gemini 1.5 Flash.
+
+### [Vermouth](https://github.com/Jamlie/vermouth)
+Vermouth is a friendly implementation of HTTP/1.1 from scratch in Go, supporting middlewares, error handling out of the box for the HTTP handlers.
+
 ### [Vodka](https://github.com/Jamlie/vodka)
-Vodka is a lightweight abstraction over the net/http- Go’s STD library of http- to make building HTTP APIs and servers easier with a great middleware support.
+Vodka is a lightweight abstraction over the net/http - Go’s STD library of http- to make building HTTP APIs and servers easier with a great middleware support.
 
 ### [Jamlang](https://github.com/Jamlie/Jamlang)
 Jamlang is a simple, easy-to-use, interpreted programming language written in Go that is easy to extend via Go code, to add native functions/variables
