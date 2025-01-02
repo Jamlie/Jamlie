@@ -5,6 +5,9 @@
 * Experienced in Golang, CLI, backend development
 
 ## Projects
+### [Twitter-like Application](https://github.com/Jamlie/SocialMedia)
+A social media application that allows users to create accounts, post text or images, viewing other profiles, messaging, commenting, and customizing their own profile page.
+
 ### [ask](https://github.com/Jamlie/ask)
 Ask is a CLI tool used for communicating with Google’s Gemini 1.5 Flash.
 
@@ -20,11 +23,8 @@ Jamlang is a simple, easy-to-use, interpreted programming language written in Go
 ### [License](https://github.com/DrivingLicenseUni/DrivingLicense)
 A mobile application for a driving school, with the sole purpose of making the student have a better connection with the school and their own instructor.
 
-### [Twitter-like Application](https://github.com/Jamlie/SocialMedia)
-Asocial media application that has all the basic features like account-creation, posting, following, viewing profiles.
-
 ### [Advanced Software Project](https://github.com/Jamlie/FinalAdvancedProject)
-Aproject that is built to simulate dealing with API, making PDFs, converting to ZIP files, storing and removing users from an SQL database.
+A project that is built to simulate dealing with API, making PDFs, converting to ZIP files, storing and removing users from an SQL database.
 
 ## Skills
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
