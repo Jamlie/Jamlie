@@ -5,7 +5,7 @@
 * Experienced in Golang, CLI, backend development
 
 ## Projects
-### [Twitter-like Application](https://github.com/Jamlie/SocialMedia)
+### [Twitter-like Application](https://github.com/Jamlie/social-app)
 A social media application that allows users to create accounts, post text or images, viewing other profiles, messaging, commenting, and customizing their own profile page.
 
 ### [ask](https://github.com/Jamlie/ask)
