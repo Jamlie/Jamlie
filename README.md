@@ -5,6 +5,9 @@
 * Experienced in Golang, CLI, backend development
 
 ## Projects
+### [Ollama Models](https://github.com/Jamlie/ollama-models)
+A frontend that wraps [ollama-cli](https://github.com/ollama/ollama) and lets you chat with the AIs locally.
+
 ### [Twitter-like Application](https://github.com/Jamlie/social-app)
 A social media application that allows users to create accounts, post text or images, viewing other profiles, messaging, commenting, and customizing their own profile page.
 
