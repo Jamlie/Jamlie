@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * Backend Developer
-* Senior student at An-Najah University - Software Engineering
+* Computer Science graduate from An-Najah University - Software Engineering
 * Experienced in Golang, CLI, backend development
 
 ## Projects
